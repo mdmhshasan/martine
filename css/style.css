@@ -725,6 +725,7 @@ background-color: #0e477d;
 }
 .f-content .f-item .icon{
 padding: 10px 0px;
+text-align:left;
 }
 .f-content .f-item .icon span{
 color: #ffc962;
