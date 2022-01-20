@@ -494,7 +494,8 @@ color:#fe5c24!important;
 font-size: 40px!important;
 padding: 20px!important;
 position: relative!important;
-right: 70vh!important;
+/* right: 70vh!important; */
+left:-85vh;
 overflow: visible!important;
 background: rgba(255,255,255,.4)!important;
 backdrop-filter: blur(20px);
@@ -506,7 +507,8 @@ padding: 20px!important;
 color:#fe5c24!important;
 font-size: 40px!important;
 position: relative!important;
-left: 68vh!important;
+/* left: 68vh!important; */
+right: -80vh;
 overflow: visible!important;
 background: rgba(255,255,255,.4)!important;
 backdrop-filter: blur(20px);
